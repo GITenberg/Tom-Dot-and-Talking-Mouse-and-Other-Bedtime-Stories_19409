@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8654'
     url: http://www.gutenberg.org/2009/agents/8654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19409#Tom-Dot-and-Talking-Mouse-and-Other-Bedtime-Stories
 gutenberg_issued: '2006-09-29'
 gutenberg_type: Text
 identifiers:
